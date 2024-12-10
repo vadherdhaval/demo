@@ -1,12 +1,5 @@
 {
-  "posts": [
+  "task": [
     { "id": 1, "title": "Task 1", "descrption": "Desc Task 1", "status": "open", "created_at": "10/12/2024" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
