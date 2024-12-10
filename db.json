@@ -1,5 +1,5 @@
 {
-  "posts": [
-    { "id": 1, "title": "Task 1", "description": "Desc 1", "statu": "open", "created_at":"12/10/2024" }
+  "task": [
+    { "id": 1, "title": "Task 1", "descrption": "Desc Task 1", "status": "open", "created_at": "10/12/2024" }
   ]
 }
